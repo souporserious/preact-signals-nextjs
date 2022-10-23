@@ -1,0 +1,19 @@
+{
+  "name": "preact-signals-nextjs",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@preact/signals-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.4",
+    "@types/react": "18.0.21",
+    "typescript": "4.8.4"
+  }
+}
