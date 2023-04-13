@@ -1,6 +1,6 @@
 # preact-signals-nextjs
 
-This is a simple NextJS app to demonstrate how preact-signals can break fast refresh in local development.
+This is a simple Next.js app to demonstrate how preact-signals can break fast refresh in local development.
 
 See https://github.com/preactjs/signals/issues/250 for more details.
 
